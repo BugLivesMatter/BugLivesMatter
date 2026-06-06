@@ -29,7 +29,7 @@
 - 🔧 Focused on **backend development** — REST APIs, microservices, automation bots
 - 🚀 Interested in **Go** as the primary career path, also working with Python & Rust
 - 🔍 Open to **internships** and junior backend positions
-- 🐱 Cat owner. Plays CS2, Valorant. Likes heavy metal and city-pop equally.
+- 🐱 Cat owner.
 
 ---
 
