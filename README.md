@@ -15,7 +15,8 @@
 
 *Building APIs, automations, and tools that actually work.*
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/your_username)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/BugLifesMatter)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:runtrxct@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BugLivesMatter)
 ![Profile Views](https://komarev.com/ghpvc/?username=BugLivesMatter&style=flat-square&color=blueviolet)
 
@@ -29,7 +30,7 @@
 - 🔧 Focused on **backend development** — REST APIs, microservices, automation bots
 - 🚀 Interested in **Go** as the primary career path, also working with Python & Rust
 - 🔍 Open to **internships** and junior backend positions
-- 🐱 Cat owner.
+- 🐱 Cat owner. Plays CS2, Valorant. Likes heavy metal and city-pop equally.
 
 ---
 
@@ -64,11 +65,11 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**LZT Monitor Bot**](https://github.com/BugLivesMatter/lzt-monitor) | Telegram bot for marketplace monitoring with keyword/content filtering and a GUI | Python, Telegram API, tkinter |
-| [**docrypt**](https://github.com/BugLivesMatter/docrypt) | CLI file encryption tool with two-layer cipher stack and HWID binding | Rust, XChaCha20-Poly1305, AES-256-GCM-SIV |
-| [**ScytheAIM**](https://github.com/BugLivesMatter/ScytheAIM) | OpenCV-based aim-assist tool | Python, OpenCV |
-| [**VPN Client**](https://github.com/BugLivesMatter/vpn-client) | Lightweight VPN client implementation | Python |
-| [**GlitterCosmeticsStore**](https://github.com/BugLivesMatter/GlitterCosmeticsStore) | Full-stack cosmetics store web app (university project) | ASP.NET Core, Razor Pages, PostgreSQL |
+| [**ScytheAIM**](https://github.com/BugLivesMatter/ScytheAIM) | Real-time aim-assist overlay using computer vision — object detection via OpenCV | Python, OpenCV |
+| [**LZT Market Monitor**](https://github.com/BugLivesMatter/LZT-Market-Monitor) | Marketplace monitor with Telegram bot notifications, keyword/content filters and a desktop GUI | Python, Selenium, PyQt5, Telegram Bot |
+| [**AnonLine VPN**](https://github.com/BugLivesMatter/AnonLine_VPN-VLESS) | Desktop VPN client with GUI built around Xray-core and VLESS protocol | Python, PyQt5, Xray-core, VLESS |
+| [**Best Python Obfuscator**](https://github.com/BugLivesMatter/Best-Python-Obfuscator-NGL) | Web-based Python code obfuscator with encryption — runs entirely in the browser | TypeScript, React, Vite, Tailwind, CryptoJS |
+| [**AI Aim Assistant**](https://github.com/BugLivesMatter/portfolio) | Desktop aim-assist powered by a custom-trained neural network with DirectML GPU acceleration | C#, DirectML, ONNX Runtime |
 
 ---
 
